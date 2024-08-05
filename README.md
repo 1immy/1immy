@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @1immy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hey there, I'm Limo!
+
+🎓 Student @ **UW-Madison**  
+💻 Currently learning **Java** & **JavaScript**
+
+## 🚀 Interests
+- 🤖 Machine Learning
+- 🛠️ Robotics
+
+---
+
+Feel free to check out my repositories and connect with me!
 
 <!---
 1immy/1immy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
